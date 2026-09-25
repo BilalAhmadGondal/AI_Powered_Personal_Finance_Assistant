@@ -1,0 +1,16 @@
+# Environment/secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+aws_config
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
